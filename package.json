@@ -54,7 +54,7 @@
     "sql.js": "^1.14.1",
     "ssh2": "^1.17.0",
     "ssh2-sftp-client": "^12.1.1",
-    "zod": "^3.25.76"
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@types/archiver": "^7.0.0",
