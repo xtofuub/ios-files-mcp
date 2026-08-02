@@ -47,9 +47,9 @@
   "homepage": "https://github.com/xtofuub/ios-files-mcp#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.29.0",
-    "archiver": "^7.0.1",
+    "archiver": "^8.0.0",
     "bplist-parser": "^0.3.2",
-    "js-beautify": "^1.15.4",
+    "js-beautify": "^2.0.3",
     "plist": "^5.0.0",
     "sql.js": "^1.14.1",
     "ssh2": "^1.17.0",
